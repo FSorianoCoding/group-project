@@ -44,3 +44,9 @@ main h2 {
 .stans-styles {
     background-color:lightgray;
 }
+
+.fabian-style {
+    color: blue;
+    background-color: lightblue;
+    padding: 6px;
+}
